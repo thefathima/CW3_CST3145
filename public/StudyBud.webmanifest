@@ -1,0 +1,16 @@
+{
+    "name": "StudyBud - My After School Lessons",
+    "origin": "*",
+    "short_name": "StudyBud",
+    "description": "Unlock the potential of afterschool learning with StudyBud!",
+    "icons": [
+        {
+            "src": "/images/Study_bud.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
